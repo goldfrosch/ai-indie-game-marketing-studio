@@ -17,7 +17,8 @@
       "Bash(curl -s https://raw.githubusercontent.com/vercel-labs/agent-skills/main/skills/react-best-practices/SKILL.md)",
       "Bash(curl -s https://raw.githubusercontent.com/vercel-labs/agent-skills/main/skills/composition-patterns/SKILL.md)",
       "Bash(curl -s https://raw.githubusercontent.com/vercel-labs/next-skills/main/skills/next-best-practices/SKILL.md)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "WebSearch"
     ]
   }
 }
