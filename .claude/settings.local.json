@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv game-pitch.md game-pitch/SKILL.md)",
+      "Bash(mv marketing-plan.md marketing-plan/SKILL.md)",
+      "Bash(mv review-analyze.md review-analyze/SKILL.md)",
+      "Bash(mv steam-analyze.md steam-analyze/SKILL.md)",
+      "Bash(mv streamer-match.md streamer-match/SKILL.md)",
+      "Bash(for name:*)",
+      "Bash(do mkdir:*)",
+      "Bash(mv \".claude/agents/$name.md\" \".claude/agents/$name/AGENT.md\")",
+      "Bash(done)"
+    ]
+  }
+}
